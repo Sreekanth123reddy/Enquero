@@ -1,0 +1,6 @@
+D:\C#\TypeConversionExamples\bin\Debug\TypeConversionExamples.exe.config
+D:\C#\TypeConversionExamples\bin\Debug\TypeConversionExamples.exe
+D:\C#\TypeConversionExamples\bin\Debug\TypeConversionExamples.pdb
+D:\C#\TypeConversionExamples\obj\Debug\TypeConversionExamples.csproj.CoreCompileInputs.cache
+D:\C#\TypeConversionExamples\obj\Debug\TypeConversionExamples.exe
+D:\C#\TypeConversionExamples\obj\Debug\TypeConversionExamples.pdb
