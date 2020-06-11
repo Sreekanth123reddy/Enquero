@@ -1,0 +1,7 @@
+C:\Users\SreekanthReddyAppire\source\repos\stringsCsharp\bin\Debug\stringsCsharp.exe.config
+C:\Users\SreekanthReddyAppire\source\repos\stringsCsharp\bin\Debug\stringsCsharp.exe
+C:\Users\SreekanthReddyAppire\source\repos\stringsCsharp\bin\Debug\stringsCsharp.pdb
+C:\Users\SreekanthReddyAppire\source\repos\stringsCsharp\obj\Debug\stringsCsharp.csprojAssemblyReference.cache
+C:\Users\SreekanthReddyAppire\source\repos\stringsCsharp\obj\Debug\stringsCsharp.csproj.CoreCompileInputs.cache
+C:\Users\SreekanthReddyAppire\source\repos\stringsCsharp\obj\Debug\stringsCsharp.exe
+C:\Users\SreekanthReddyAppire\source\repos\stringsCsharp\obj\Debug\stringsCsharp.pdb

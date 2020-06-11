@@ -1,0 +1,7 @@
+C:\Users\SreekanthReddyAppire\source\repos\summarizingText\bin\Debug\summarizingText.exe.config
+C:\Users\SreekanthReddyAppire\source\repos\summarizingText\bin\Debug\summarizingText.exe
+C:\Users\SreekanthReddyAppire\source\repos\summarizingText\bin\Debug\summarizingText.pdb
+C:\Users\SreekanthReddyAppire\source\repos\summarizingText\obj\Debug\summarizingText.csprojAssemblyReference.cache
+C:\Users\SreekanthReddyAppire\source\repos\summarizingText\obj\Debug\summarizingText.csproj.CoreCompileInputs.cache
+C:\Users\SreekanthReddyAppire\source\repos\summarizingText\obj\Debug\summarizingText.exe
+C:\Users\SreekanthReddyAppire\source\repos\summarizingText\obj\Debug\summarizingText.pdb

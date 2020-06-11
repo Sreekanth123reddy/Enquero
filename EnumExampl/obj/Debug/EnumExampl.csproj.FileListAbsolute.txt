@@ -1,0 +1,7 @@
+C:\Users\SreekanthReddyAppire\source\repos\EnumExampl\bin\Debug\EnumExampl.exe.config
+C:\Users\SreekanthReddyAppire\source\repos\EnumExampl\bin\Debug\EnumExampl.exe
+C:\Users\SreekanthReddyAppire\source\repos\EnumExampl\bin\Debug\EnumExampl.pdb
+C:\Users\SreekanthReddyAppire\source\repos\EnumExampl\obj\Debug\EnumExampl.csprojAssemblyReference.cache
+C:\Users\SreekanthReddyAppire\source\repos\EnumExampl\obj\Debug\EnumExampl.csproj.CoreCompileInputs.cache
+C:\Users\SreekanthReddyAppire\source\repos\EnumExampl\obj\Debug\EnumExampl.exe
+C:\Users\SreekanthReddyAppire\source\repos\EnumExampl\obj\Debug\EnumExampl.pdb

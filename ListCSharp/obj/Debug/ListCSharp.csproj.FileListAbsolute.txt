@@ -1,0 +1,7 @@
+C:\Users\SreekanthReddyAppire\source\repos\ListCSharp\bin\Debug\ListCSharp.exe.config
+C:\Users\SreekanthReddyAppire\source\repos\ListCSharp\bin\Debug\ListCSharp.exe
+C:\Users\SreekanthReddyAppire\source\repos\ListCSharp\bin\Debug\ListCSharp.pdb
+C:\Users\SreekanthReddyAppire\source\repos\ListCSharp\obj\Debug\ListCSharp.csprojAssemblyReference.cache
+C:\Users\SreekanthReddyAppire\source\repos\ListCSharp\obj\Debug\ListCSharp.csproj.CoreCompileInputs.cache
+C:\Users\SreekanthReddyAppire\source\repos\ListCSharp\obj\Debug\ListCSharp.exe
+C:\Users\SreekanthReddyAppire\source\repos\ListCSharp\obj\Debug\ListCSharp.pdb

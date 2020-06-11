@@ -1,0 +1,7 @@
+C:\Users\SreekanthReddyAppire\source\repos\construcorsCSharo\bin\Debug\construcorsCSharo.exe.config
+C:\Users\SreekanthReddyAppire\source\repos\construcorsCSharo\bin\Debug\construcorsCSharo.exe
+C:\Users\SreekanthReddyAppire\source\repos\construcorsCSharo\bin\Debug\construcorsCSharo.pdb
+C:\Users\SreekanthReddyAppire\source\repos\construcorsCSharo\obj\Debug\construcorsCSharp.csprojAssemblyReference.cache
+C:\Users\SreekanthReddyAppire\source\repos\construcorsCSharo\obj\Debug\construcorsCSharp.csproj.CoreCompileInputs.cache
+C:\Users\SreekanthReddyAppire\source\repos\construcorsCSharo\obj\Debug\construcorsCSharo.exe
+C:\Users\SreekanthReddyAppire\source\repos\construcorsCSharo\obj\Debug\construcorsCSharo.pdb
