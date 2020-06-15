@@ -1,0 +1,7 @@
+D:\C#\CSharpInterfaceExten\bin\Debug\CSharpInterfaceExten.exe.config
+D:\C#\CSharpInterfaceExten\bin\Debug\CSharpInterfaceExten.exe
+D:\C#\CSharpInterfaceExten\bin\Debug\CSharpInterfaceExten.pdb
+D:\C#\CSharpInterfaceExten\obj\Debug\CSharpInterfaceExten.csprojAssemblyReference.cache
+D:\C#\CSharpInterfaceExten\obj\Debug\CSharpInterfaceExten.csproj.CoreCompileInputs.cache
+D:\C#\CSharpInterfaceExten\obj\Debug\CSharpInterfaceExten.exe
+D:\C#\CSharpInterfaceExten\obj\Debug\CSharpInterfaceExten.pdb

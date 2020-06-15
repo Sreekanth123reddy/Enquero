@@ -1,0 +1,17 @@
+D:\C#\Testability.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\C#\Testability.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\C#\Testability.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\C#\Testability.UnitTests\bin\Debug\Testability.UnitTests.dll
+D:\C#\Testability.UnitTests\bin\Debug\Testability.UnitTests.pdb
+D:\C#\Testability.UnitTests\bin\Debug\interfaceTestabilityCSharp.exe
+D:\C#\Testability.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\C#\Testability.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\C#\Testability.UnitTests\bin\Debug\interfaceTestabilityCSharp.pdb
+D:\C#\Testability.UnitTests\bin\Debug\interfaceTestabilityCSharp.exe.config
+D:\C#\Testability.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\C#\Testability.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\C#\Testability.UnitTests\obj\Debug\Testability.UnitTests.csprojAssemblyReference.cache
+D:\C#\Testability.UnitTests\obj\Debug\Testability.UnitTests.csproj.CoreCompileInputs.cache
+D:\C#\Testability.UnitTests\obj\Debug\Testability.UnitTests.csproj.CopyComplete
+D:\C#\Testability.UnitTests\obj\Debug\Testability.UnitTests.dll
+D:\C#\Testability.UnitTests\obj\Debug\Testability.UnitTests.pdb

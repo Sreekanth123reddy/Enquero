@@ -1,0 +1,7 @@
+D:\C#\abstractCSharp\bin\Debug\abstractCSharp.exe.config
+D:\C#\abstractCSharp\bin\Debug\abstractCSharp.exe
+D:\C#\abstractCSharp\bin\Debug\abstractCSharp.pdb
+D:\C#\abstractCSharp\obj\Debug\abstractCSharp.csprojAssemblyReference.cache
+D:\C#\abstractCSharp\obj\Debug\abstractCSharp.csproj.CoreCompileInputs.cache
+D:\C#\abstractCSharp\obj\Debug\abstractCSharp.exe
+D:\C#\abstractCSharp\obj\Debug\abstractCSharp.pdb

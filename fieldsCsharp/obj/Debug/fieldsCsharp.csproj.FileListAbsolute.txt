@@ -1,0 +1,7 @@
+D:\C#\fieldsCsharp\bin\Debug\fieldsCsharp.exe.config
+D:\C#\fieldsCsharp\bin\Debug\fieldsCsharp.exe
+D:\C#\fieldsCsharp\bin\Debug\fieldsCsharp.pdb
+D:\C#\fieldsCsharp\obj\Debug\fieldsCsharp.csprojAssemblyReference.cache
+D:\C#\fieldsCsharp\obj\Debug\fieldsCsharp.csproj.CoreCompileInputs.cache
+D:\C#\fieldsCsharp\obj\Debug\fieldsCsharp.exe
+D:\C#\fieldsCsharp\obj\Debug\fieldsCsharp.pdb

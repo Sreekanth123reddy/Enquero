@@ -1,0 +1,7 @@
+D:\C#\interfaceTestabilityCSharp\bin\Debug\interfaceTestabilityCSharp.exe.config
+D:\C#\interfaceTestabilityCSharp\bin\Debug\interfaceTestabilityCSharp.exe
+D:\C#\interfaceTestabilityCSharp\bin\Debug\interfaceTestabilityCSharp.pdb
+D:\C#\interfaceTestabilityCSharp\obj\Debug\interfaceTestabilityCSharp.csprojAssemblyReference.cache
+D:\C#\interfaceTestabilityCSharp\obj\Debug\interfaceTestabilityCSharp.csproj.CoreCompileInputs.cache
+D:\C#\interfaceTestabilityCSharp\obj\Debug\interfaceTestabilityCSharp.exe
+D:\C#\interfaceTestabilityCSharp\obj\Debug\interfaceTestabilityCSharp.pdb

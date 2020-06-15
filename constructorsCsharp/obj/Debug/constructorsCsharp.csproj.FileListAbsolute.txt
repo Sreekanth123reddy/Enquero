@@ -1,0 +1,7 @@
+D:\C#\constructorsCsharp\bin\Debug\constructorsCsharp.exe.config
+D:\C#\constructorsCsharp\bin\Debug\constructorsCsharp.exe
+D:\C#\constructorsCsharp\bin\Debug\constructorsCsharp.pdb
+D:\C#\constructorsCsharp\obj\Debug\constructorsCsharp.csprojAssemblyReference.cache
+D:\C#\constructorsCsharp\obj\Debug\constructorsCsharp.csproj.CoreCompileInputs.cache
+D:\C#\constructorsCsharp\obj\Debug\constructorsCsharp.exe
+D:\C#\constructorsCsharp\obj\Debug\constructorsCsharp.pdb
