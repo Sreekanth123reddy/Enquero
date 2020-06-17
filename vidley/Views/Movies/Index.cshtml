@@ -1,0 +1,30 @@
+﻿@model List<vidley.Models.Movy>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<h2>Movies</h2>
+<table class="table">
+    <tr>
+        <th>MovieId</th>
+        <th>MovieName</th>
+        <th>UserName</th>
+        <th>FirstName</th>
+        <th>LastName</th>
+    </tr>
+    @foreach (var movies in Model)
+    {
+        <tr>
+            <td>@movies.MovieID</td>
+            <td>@movies.MovieName</td>
+            <td>@movies.UserName</td>
+            <td>@movies.FirstName</td>
+            <td>@movies.LastName</td>
+        </tr>
+    }
+
+</table>
+}
+
+

@@ -1,0 +1,7 @@
+D:\C#\sequence\obj\Debug\sequence.csprojAssemblyReference.cache
+D:\C#\sequence\obj\Debug\sequence.csproj.CoreCompileInputs.cache
+D:\C#\sequence\bin\Debug\sequence.exe.config
+D:\C#\sequence\bin\Debug\sequence.exe
+D:\C#\sequence\bin\Debug\sequence.pdb
+D:\C#\sequence\obj\Debug\sequence.exe
+D:\C#\sequence\obj\Debug\sequence.pdb
